@@ -1,0 +1,17 @@
+{
+  "slug": "BBModules",
+  "name": "BB Modules",
+  "author": "Roberto Colabene",
+  "license": "proprietary",
+  "version": "0.5.0",
+  "homepage": "https://github.com/soulbridge/BBModules",
+  "manual": "https://github.com/soulbridge/BBModules/blob/master/README.md",
+  "downloads": {
+    "win": {
+      "download": "https://github.com/soulbridge/BBModules/releases",
+    },
+    "mac": {
+      "download": "https://github.com/soulbridge/BBModules/releases",
+    }
+  }
+}
