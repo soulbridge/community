@@ -1,6 +1,8 @@
 
 # VCV community
 
+[![Build Status](https://travis-ci.org/VCVRack/community.svg?branch=master)](https://travis-ci.org/VCVRack/community)
+
 *Manifest repository for VCV Rack plugins*
 
 ### Contributing your plugin
@@ -20,6 +22,7 @@ Filename should be `YourSlug.json`.
   "license": "BSD 3-clause",
   "version": "0.5.0",
   "homepage": "https://vcvrack.com/",
+  "donation": "https://www.paypal.me/",
   "manual": "https://vcvrack.com/manual/AudibleInstruments.html",
   "source": "https://github.com/VCVRack/AudibleInstruments",
   "downloads": {
@@ -49,6 +52,7 @@ Keys with * are required.
 - **version**\*: Your plugin's version, using the guidelines at https://github.com/VCVRack/Rack/issues/266. Do not include the "v" prefix.
 - **license**: Abbreviation of the license(s) of your plugin. Use "proprietary" if all rights are reserved.
 - **homepage**: URL of the landing page of your plugin. Omit if redundant with the source URL.
+- **donation**: URL of your donation page.  Use this to provide a URL to users who wish to donate.
 - **manual**: URL of the manual of your plugin. HTML, PDF, or GitHub readme/wiki are fine.
 - **source**: URL of the source code landing page.
 - **downloads**: Mapping of supported architectures to downloads.

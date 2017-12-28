@@ -1,8 +1,7 @@
 {
-  "slug": "LindenbergResearch",
+  "slug": "Lindenberg Research",
   "name": "Lindenberg Research",
   "author": "lindenbergresearch",
-  "version": "0.5.0",
   "source": "https://github.com/lindenbergresearch/LRTRack",
   "downloads": {
     "win": {
